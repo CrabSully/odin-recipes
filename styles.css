@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(172, 190, 241);
+}
+
+.info {
+    font-weight: bold;
+}
+
+.list {
+    color: rgb(94, 92, 92);
+}
+
+.steps li {
+    font-size: 24px;
+}
+
+h1, h2 {
+    color: darkblue;
+}
+
+a:visited {
+    color:crimson;
+}
